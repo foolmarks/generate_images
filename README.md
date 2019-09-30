@@ -1,2 +1,3 @@
 # generate_images
-Generate images from Keras datasets
+Refer to http://www.markharvey.info/ml/generate_images/generate_images.html
+
